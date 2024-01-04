@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: <a href='#'>Affiliations</a>. Address. Contacts. Moto. Etc.
+subtitle: <a href='#'>ECE, University of Minneosta, Twin Cities</a>. Email: xian0044@umn.edu
 
 profile:
   align: right
