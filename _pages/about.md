@@ -17,4 +17,7 @@ social: true  # includes social icons at the bottom of the page
 ---
 
 
-I am Xun Xian, a fourth-year Ph.D. student at University of Minnesota, supervised by [Prof. Jie Ding](https://jding.org/) and [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html). My research focuses on the trustworthniess issue of machine/deep learning. 
+I am Xun Xian, a fourth-year Ph.D. student at University of Minnesota, supervised by [Prof. Jie Ding](https://jding.org/) and [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html). 
+
+I am dedicated to investigating the reliability concerns within machine/deep learning. Presently, my efforts are concentrated on developing **watermarking techniques** tailored for generative models, encompassing both diffusion and large language models.
+
