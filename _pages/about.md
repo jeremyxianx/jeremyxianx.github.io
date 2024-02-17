@@ -21,3 +21,5 @@ I am Xun Xian, a fourth-year Ph.D. student at University of Minnesota, supervise
 
 I am dedicated to investigating the reliability concerns within machine/deep learning. Presently, my efforts are concentrated on developing **watermarking techniques** tailored for generative models, encompassing both diffusion and large language models.
 
+Contact: By Email xian0044@umn.edu
+
