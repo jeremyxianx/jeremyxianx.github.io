@@ -5,10 +5,10 @@ permalink: /
 subtitle: <a href='#'>ECE, University of Minneosta, Twin Cities</a>. 
 profile:
   align: right
-  image: cover_figure.jpg
-  image_circular: false # crops the image to make it circular
+  image: myself.jpg
+  image_circular: true # crops the image to make it circular
   more_info: >
-    <p>"Face the UNKNOWN". Picture credits to Yifan Zhang.</p>
+    <p></p>
 
 news: true  # includes a list of news items
 latest_posts: false  # includes a list of the newest posts
