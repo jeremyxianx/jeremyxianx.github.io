@@ -19,7 +19,7 @@ social: true  # includes social icons at the bottom of the page
 
 I am Xun Xian, a fourth-year Ph.D. student at University of Minnesota, supervised by [Prof. Jie Ding](https://jding.org/) and [Prof. Mingyi Hong](https://people.ece.umn.edu/~mhong/mingyi.html). 
 
-I am dedicated to investigating the **trustworthiness** for generative models/deep learing models. Presently, my efforts are concentrated on developing **watermarking techniques** tailored for generative models, encompassing both diffusion and large language models.
+I am dedicated to investigating the **trustworthiness and safety** of generative models and deep learning models. Presently, my efforts are concentrated on developing **watermarking techniques** tailored for generative models, encompassing both diffusion and large language models, to ensure the safe use of generative AI.
 
 Contact: By Email xian0044@umn.edu
 
