@@ -5,5 +5,4 @@ inline: true
 related_posts: false
 ---
 
-A paper is accepted at NeurIPS 2023.
-
+Our paper titled ['A Unified Detection Framework for Inference-Stage Backdoor Defenses'](https://openreview.net/pdf?id=4zWEyYGGfI) has been accepted at NeurIPS 2023. In this paper, we developed a **unified framework** for defending against backdoor attacks in both computer vision (CV) and natural language processing (NLP) applications, achieving up to a **300\%** improvement in terms of detection performance.
